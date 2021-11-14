@@ -1,0 +1,36 @@
+
+.PrimerCont{
+  width: 645px;
+  height: 625px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+.PARRA{
+  color: red;
+}
+
+.tituloBlueC{
+  color: white; font-family:Arial Narrow; font-size: 20pt;
+}
+
+.legend{
+  font-size: 20pt;
+  color: white;
+  font-family: Arial Narrow;
+}
+
+.labels{
+  font-size: 16pt;
+  color: white;
+  font-family:Arial Narrow;
+}
+
+.inputs{
+  border-radius:15px;
+}
+
+.label30{
+  font-size: 16pt;
+  color: white;
+  font-family:Arial Narrow;
+}   

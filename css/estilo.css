@@ -1,0 +1,41 @@
+.PrimerCont{
+
+  width: 100%;
+  height: 790px;
+  background-color: rgba(255,255,255,0.5);
+}
+
+.PARRA{
+  font-size: 120px; text-align: 
+  center; padding-top: 210px; 
+  color: #2262C4; 
+  font-family:time news roman;
+}
+
+.tituloBlueC{
+  color: white; 
+  font-family:Arial Narrow; 
+  font-size: 20pt;
+}
+
+.legend{
+  font-size: 20pt;
+  color: white;
+  font-family: Arial Narrow;
+}
+
+.labels{
+  font-size: 16pt;
+  color: white;
+  font-family:Arial Narrow;
+}
+
+.inputs{
+  border-radius:15px;
+}
+
+.label30{
+  font-size: 16pt;
+  color: white;
+  font-family:Arial Narrow;
+}   
